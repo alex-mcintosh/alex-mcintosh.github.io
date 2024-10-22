@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Alex McIntosh
     - name: Date of Birth
-      value: 14th March 1879
+      value: 
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Cambridge
+      year: 
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Chemistry (MChem)
+      institution: University of Oxford
+      year: 
       description:
         - Description 1.
         - Description 2.
@@ -31,9 +31,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Principal Scientist
+      institution: Microsaic Systems plc
+      year: 
       description:
         - Description 1.
         - Description 2.
@@ -41,7 +41,7 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
+    - title: Postdoctoral Research Assistant
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
       description:
