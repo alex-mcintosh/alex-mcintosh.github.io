@@ -4,7 +4,7 @@
     - name: Full Name
       value: Alex McIntosh
     - name: Date of Birth
-      value: 
+      value: None
     - name: Languages
       value: English
 
@@ -13,7 +13,7 @@
   contents:
     - title: PhD
       institution: University of Cambridge
-      year: 
+      year: None
       description:
         - Description 1.
         - Description 2.
@@ -23,7 +23,7 @@
             - Sub-description 2.
     - title: Chemistry (MChem)
       institution: University of Oxford
-      year: 
+      year: None
       description:
         - Description 1.
         - Description 2.
@@ -33,7 +33,7 @@
   contents:
     - title: Principal Scientist
       institution: Microsaic Systems plc
-      year: 
+      year: None
       description:
         - Description 1.
         - Description 2.
