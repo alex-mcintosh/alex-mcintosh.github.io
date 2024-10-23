@@ -27,8 +27,8 @@
       "name": "Microsaic Systems plc",
       "position": "Principal Scientist",
       "url": "",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "May 2013",
+      "endDate": "Jan 2024",
       "summary": "",
       "highlights": ["Deconvolution"]
     },
@@ -36,44 +36,55 @@
       "name": "Queen Mary, University of London",
       "position": "Postdoctoral Research Assistant",
       "url": "",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "Dec 2010",
+      "endDate": "Mar 2013",
+      "summary": "",
+      "highlights": ["Terahertz"]
+    },
+    {
+      "name": "Merck Sharp & Dohme",
+      "position": "Research Chemist",
+      "url": "",
+      "startDate": "May 2008",
+      "endDate": "Dec 2010",
       "summary": "",
       "highlights": ["Terahertz"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "",
+      "location": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Cambridge",
+      "location": "Cambridge, UK",
+      "url": "",
+      "area": "Physical Chemistry",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [""]
+    },
+        {
+      "institution": "University of Oxford",
+      "location": "Oxford, UK",
+      "url": "",
+      "area": "Chemistry",
+      "studyType": "MChem",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [""]
     }
   ],
   "certificates": [
