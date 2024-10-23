@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Alex McIntosh",
-    "label": "Scientist",
+    "label": "Principal Scientist",
     "image": "",
     "email": "",
     "phone": "",
@@ -29,8 +29,17 @@
       "url": "",
       "startDate": "",
       "endDate": "",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "",
+      "highlights": ["Deconvolution"]
+    },
+    {
+      "name": "Queen Mary, University of London",
+      "position": "Postdoctoral Research Assistant",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Terahertz"]
     }
   ],
   "volunteer": [
