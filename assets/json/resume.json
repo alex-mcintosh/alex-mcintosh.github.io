@@ -135,27 +135,50 @@
       "icon": "fa-solid fa-code"
     }
   ],
+   "patents": [
+    {
+      "name": "Method for extracting mass information from low resolution mass-to-charge ratio spectra of multiply charged species",
+      "publisher": "US Patent",
+      "releaseDate": "May 2019",
+      "url": "https://worldwide.espacenet.com/patent/search/family/056369839/publication/US10297434B2?q=US10297434B2",
+      "summary": ""
+    },
+    {
+      "name": "Method and system for monitoring biomolecule separations by mass spectrometry",
+      "publisher": "US Patent",
+      "releaseDate": "Jan 2017",
+      "url": "https://worldwide.espacenet.com/patent/search/family/051410554/publication/US9535042B2?q=US9535042B2",
+      "summary": ""
+    },
+  ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Crystallization of Amorphous Lactose at High Humidity Studied by Terahertz Time Domain Spectroscopy",
+      "publisher": "Chemical Physics Letters",
+      "releaseDate": "Feb 2013",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0009261412014650?via%3Dihub",
+      "summary": ""
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Terahertz spectroscopy: A powerful new tool for the chemical sciences?",
+      "publisher": "Chemical Society Reviews",
+      "releaseDate": "Mar 2012",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2012/cs/c1cs15277g",
+      "summary": ""
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Mechanistic insights into the proline-directed enantioselective heterogeneous hydrogenation of isophorone",
+      "publisher": "Langmuir",
+      "releaseDate": "Apr 2007",
+      "url": "https://pubs.acs.org/doi/10.1021/la063064h",
+      "summary": ""
+    },
+    {
+      "name": "Heterogeneously catalyzed asymmetric C=C hydrogenation: Origin of enantioselectivity in the proline-directed Pd/isophorone system",
+      "publisher": "Journal of the American Chemical Society",
+      "releaseDate": "May 2006",
+      "url": "https://pubs.acs.org/doi/10.1021/ja061104y",
+      "summary": ""
     }
   ],
   "skills": [
