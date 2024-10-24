@@ -82,7 +82,7 @@
       "date": "2021-04",
       "issuer": "Coursera (University of California)",
       "url": "https://www.coursera.org/account/accomplishments/certificate/JH8DPAYCYSG5",
-      "icon": "fa-light fa-dice"
+      "icon": "fa-solid fa-dice"
     },
     {
       "name": "Machine Learning ",
@@ -96,7 +96,7 @@
       "date": "2023-04",
       "issuer": "Coursera (Johns Hopkins)",
       "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/NDXWAA3XJUN8",
-      "icon": "fa-solid fa-chart-mixed"
+      "icon": "fa-solid fa-chart-line"
     },
     {
       "name": "Statistical Inference ",
@@ -124,7 +124,7 @@
       "date": "2024-01",
       "issuer": "Coursera (University of California, Davis) ",
       "url": "https://www.coursera.org/account/accomplishments/verify/35B2G3D5CH29",
-      "icon": "fa-solid fa-chart-mixed"
+      "icon": "fa-solid fa-code"
     }
   ],
   "publications": [
