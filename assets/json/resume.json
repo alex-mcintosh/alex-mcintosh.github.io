@@ -135,7 +135,7 @@
       "icon": "fa-solid fa-code"
     }
   ],
-   "patents": [
+  "publications": [
     {
       "name": "Method for extracting mass information from low resolution mass-to-charge ratio spectra of multiply charged species",
       "publisher": "US Patent",
@@ -150,8 +150,6 @@
       "url": "https://worldwide.espacenet.com/patent/search/family/051410554/publication/US9535042B2?q=US9535042B2",
       "summary": ""
     },
-  ],
-  "publications": [
     {
       "name": "Crystallization of Amorphous Lactose at High Humidity Studied by Terahertz Time Domain Spectroscopy",
       "publisher": "Chemical Physics Letters",
