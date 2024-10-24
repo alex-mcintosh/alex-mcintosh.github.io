@@ -51,18 +51,6 @@
       "highlights": ["Terahertz"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "",
-      "location": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [""]
-    }
-  ],
   "education": [
     {
       "institution": "University of Cambridge",
@@ -89,45 +77,52 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Bayesian Statistics ",
+      "date": "2021-04",
+      "issuer": "Coursera (University of California)",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/JH8DPAYCYSG5",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Machine Learning ",
+      "date": "2021-04",
+      "issuer": "Coursera (Stanford University) ",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/9RHM7UXTDZ94",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Data Science: Foundations using R Specialization ",
+      "date": "2023-04",
+      "issuer": "Coursera (Johns Hopkins)",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/NDXWAA3XJUN8",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Statistical Inference ",
+      "date": "2023-06",
+      "issuer": "Coursera (Johns Hopkins)",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/945A6NMUH45W",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Regression Models",
+      "date": "2023-07",
+      "issuer": "Coursera (Johns Hopkins)",
+      "url": "https://www.coursera.org/account/accomplishments/verify/VAK5PCY2SJUU",
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Developing Data Products",
+      "date": "2023-12",
+      "issuer": "Coursera (Johns Hopkins)",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/66LBPYHH4ZQU",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "SQL for Data Science",
+      "date": "2024-01",
+      "issuer": "Coursera (University of California, Davis) ",
+      "url": "https://www.coursera.org/account/accomplishments/verify/35B2G3D5CH29",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
