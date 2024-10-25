@@ -37,10 +37,9 @@ to p in the binomial distribution which is used for randomly assigning
 the starting state.
 
 
-<figure>
-<img
-src="https://github.com/XCStat99/Game-of-Life/assets/120208086/15c5bb52-8251-4d48-a1a1-8dee3192a6ec">
-</figure>
+<div class="row">
+        {% include figure.liquid loading="eager" path="assets/img/ConwayGoL1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+</div>
 
 It is also possible to adjust the rules of the Game of Life by adjusting
 the text entry boxes, the default values being set to the original of
