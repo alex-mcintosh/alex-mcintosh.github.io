@@ -13,7 +13,6 @@ related_publications: true
 This is an implementation of Conway’s Game of Life using R and Plotly.
 This was an exercise in using R, Plotly and Shiny for implementing the
 Game of Life. The implementation of the game can be found at:
-<https://xcstat99.shinyapps.io/Game_of_Life/>
 
 ## Background
 
@@ -26,8 +25,7 @@ evolves. It is Turing complete and can simulate a universal constructor
 or any other Turing machine.
 
 This description is sourced from Wikipedia and more information can be
-found here: <https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life>
-
+found here: 
 ## Control
 
 Using the side panel (highlighted in red below) the size of the
@@ -38,7 +36,7 @@ the starting state.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ConwayGoL1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
