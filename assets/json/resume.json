@@ -27,19 +27,19 @@
       "name": "ChemQuery Solutions",
       "position": "Principal Scientist",
       "url": "",
-      "startDate": "2024-05",
+      "startDate": "May 2024",
       "endDate": "",
       "summary": "",
-      "highlights": ["AI"]
+      "highlights": ""
     },
     {
       "name": "Microsaic Systems plc",
       "position": "Principal Scientist",
       "url": "",
-      "startDate": "2013-05",
-      "endDate": "2024-01",
+      "startDate": "May 2013",
+      "endDate": "Jan 2024",
       "summary": "",
-      "highlights": ["Deconvolution"]
+      "highlights": ""
     },
     {
       "name": "Queen Mary, University of London",
@@ -48,7 +48,7 @@
       "startDate": "2010-12",
       "endDate": "2013-03",
       "summary": "",
-      "highlights": ["Terahertz"]
+      "highlights": ""
     },
     {
       "name": "Merck Sharp & Dohme",
@@ -57,7 +57,7 @@
       "startDate": "2008-05",
       "endDate": "2010-12",
       "summary": "",
-      "highlights": [""]
+      "highlights": ""
     }
   ],
   "education": [
@@ -153,28 +153,28 @@
     {
       "name": "Crystallization of Amorphous Lactose at High Humidity Studied by Terahertz Time Domain Spectroscopy",
       "publisher": "Chemical Physics Letters",
-      "releaseDate": "2013-02",
+      "releaseDate": "Feb 2013",
       "url": "https://www.sciencedirect.com/science/article/abs/pii/S0009261412014650?via%3Dihub",
       "summary": ""
     },
     {
       "name": "Terahertz spectroscopy: A powerful new tool for the chemical sciences?",
       "publisher": "Chemical Society Reviews",
-      "releaseDate": "2012-03",
+      "releaseDate": "Mar 2012",
       "url": "https://pubs.rsc.org/en/content/articlelanding/2012/cs/c1cs15277g",
       "summary": ""
     },
     {
       "name": "Mechanistic insights into the proline-directed enantioselective heterogeneous hydrogenation of isophorone",
       "publisher": "Langmuir",
-      "releaseDate": "2007-04",
+      "releaseDate": "Apr 2007",
       "url": "https://pubs.acs.org/doi/10.1021/la063064h",
       "summary": ""
     },
     {
       "name": "Heterogeneously catalyzed asymmetric C=C hydrogenation: Origin of enantioselectivity in the proline-directed Pd/isophorone system",
       "publisher": "Journal of the American Chemical Society",
-      "releaseDate": "2006-05",
+      "releaseDate": "May 2006",
       "url": "https://pubs.acs.org/doi/10.1021/ja061104y",
       "summary": ""
     }
