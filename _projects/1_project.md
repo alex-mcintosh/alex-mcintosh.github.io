@@ -8,13 +8,13 @@ category: work
 related_publications: true
 ---
 
-## Introduction
+Introduction
 
 This is an implementation of Conway’s Game of Life using R and Plotly.
 This was an exercise in using R, Plotly and Shiny for implementing the
 Game of Life. The implementation of the game can be found at:
 
-## Background
+Background
 
 The Game of Life, also known simply as Life, is a cellular automaton
 devised by the British mathematician John Horton Conway in 1970. It is a
@@ -26,7 +26,7 @@ or any other Turing machine.
 
 This description is sourced from Wikipedia and more information can be
 found here: 
-## Control
+Control
 
 Using the side panel (highlighted in red below) the size of the
 ‘habitat’ and the number of generations can be adjusted.
