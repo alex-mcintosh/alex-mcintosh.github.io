@@ -8,13 +8,33 @@ category: work
 related_publications: true
 ---
 
-
+## Introduction
 
 This is an implementation of Conway’s Game of Life using R and Plotly.
 This was an exercise in using R, Plotly and Shiny for implementing the
 Game of Life. The implementation of the game can be found at:
+<https://xcstat99.shinyapps.io/Game_of_Life/>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Background
+
+The Game of Life, also known simply as Life, is a cellular automaton
+devised by the British mathematician John Horton Conway in 1970. It is a
+zero-player game, meaning that its evolution is determined by its
+initial state, requiring no further input. One interacts with the Game
+of Life by creating an initial configuration and observing how it
+evolves. It is Turing complete and can simulate a universal constructor
+or any other Turing machine.
+
+This description is sourced from Wikipedia and more information can be
+found here: <https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life>
+
+## Control
+
+Using the side panel (highlighted in red below) the size of the
+‘habitat’ and the number of generations can be adjusted.
+Also adjustable is the ‘Probability of starting life’, this corresponds
+to p in the binomial distribution which is used for randomly assigning
+the starting state.
 
     ---
     layout: page
