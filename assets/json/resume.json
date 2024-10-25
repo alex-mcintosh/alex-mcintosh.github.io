@@ -87,49 +87,49 @@
   "certificates": [
     {
       "name": "Bayesian Statistics ",
-      "date": "2021-04",
+      "date": "",
       "issuer": "Coursera (University of California)",
       "url": "https://www.coursera.org/account/accomplishments/certificate/JH8DPAYCYSG5",
       "icon": "fa-solid fa-dice"
     },
     {
       "name": "Machine Learning ",
-      "date": "2021-04",
+      "date": "",
       "issuer": "Coursera (Stanford University) ",
       "url": "https://www.coursera.org/account/accomplishments/certificate/9RHM7UXTDZ94",
       "icon": "fa-solid fa-gears"
     },
     {
       "name": "Data Science: Foundations using R Specialization ",
-      "date": "2023-04",
+      "date": "",
       "issuer": "Coursera (Johns Hopkins)",
       "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/NDXWAA3XJUN8",
       "icon": "fa-solid fa-chart-line"
     },
     {
       "name": "Statistical Inference ",
-      "date": "2023-06",
+      "date": "",
       "issuer": "Coursera (Johns Hopkins)",
       "url": "https://www.coursera.org/account/accomplishments/certificate/945A6NMUH45W",
       "icon": "fa-solid fa-chart-line"
     },
     {
       "name": "Regression Models",
-      "date": "2023-07",
+      "date": "",
       "issuer": "Coursera (Johns Hopkins)",
       "url": "https://www.coursera.org/account/accomplishments/verify/VAK5PCY2SJUU",
       "icon": "fa-solid fa-chart-line"
     },
     {
       "name": "Developing Data Products",
-      "date": "2023-12",
+      "date": "",
       "issuer": "Coursera (Johns Hopkins)",
       "url": "https://www.coursera.org/account/accomplishments/certificate/66LBPYHH4ZQU",
       "icon": "fa-solid fa-chart-line"
     },
     {
       "name": "SQL for Data Science",
-      "date": "2024-01",
+      "date": "",
       "issuer": "Coursera (University of California, Davis) ",
       "url": "https://www.coursera.org/account/accomplishments/verify/35B2G3D5CH29",
       "icon": "fa-solid fa-code"
@@ -139,14 +139,14 @@
     {
       "name": "Method for extracting mass information from low resolution mass-to-charge ratio spectra of multiply charged species",
       "publisher": "US Patent",
-      "releaseDate": "2019-05",
+      "releaseDate": "May 2019",
       "url": "https://worldwide.espacenet.com/patent/search/family/056369839/publication/US10297434B2?q=US10297434B2",
       "summary": ""
     },
     {
       "name": "Method and system for monitoring biomolecule separations by mass spectrometry",
       "publisher": "US Patent",
-      "releaseDate": "2017-01",
+      "releaseDate": "Jan 2017",
       "url": "https://worldwide.espacenet.com/patent/search/family/051410554/publication/US9535042B2?q=US9535042B2",
       "summary": ""
     },
