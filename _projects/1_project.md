@@ -36,6 +36,39 @@ Also adjustable is the ‘Probability of starting life’, this corresponds
 to p in the binomial distribution which is used for randomly assigning
 the starting state.
 
+
+<figure>
+<img
+src="https://github.com/XCStat99/Game-of-Life/assets/120208086/15c5bb52-8251-4d48-a1a1-8dee3192a6ec">
+</figure>
+
+It is also possible to adjust the rules of the Game of Life by adjusting
+the text entry boxes, the default values being set to the original of
+Conway’s Game of Life:
+
+      *1. Any live cell with fewer than two live neighbours dies, as if
+by underpopulation.*
+
+      *2. Any live cell with two or three live neighbours lives on to
+the next generation.*
+
+      *3. Any live cell with more than three live neighbours dies, as if
+by overpopulation.*
+
+      *4. Any dead cell with exactly three live neighbours becomes a
+live cell, as if by reproduction.*
+
+Adjusting these leads to interesting scenarios and helps to explain why
+the rules in Conway’s Game of Life described above were chosen. Once the
+parameters in the control panel have been selected the simulation can be
+run by pressing the ‘Start’ button.
+
+Once ‘Start’ is pressed all generations will be calculated
+and then displayed in the Plotly plot (highlighted in red below). This
+may take some time for large habitats over a large number of
+generations. This does lead to some limitations in performance as
+outlined in the Performance Considerations section below.
+
     ---
     layout: page
     title: project
