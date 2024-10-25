@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-## Introduction
+
 
 This is an implementation of Conway’s Game of Life using R and Plotly.
 This was an exercise in using R, Plotly and Shiny for implementing the
