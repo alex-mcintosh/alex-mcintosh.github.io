@@ -1,16 +1,18 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Conway's Game of Life
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Conway's Game of Life
+## Introduction
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This is an implementation of Conway’s Game of Life using R and Plotly.
+This was an exercise in using R, Plotly and Shiny for implementing the
+Game of Life. The implementation of the game can be found at:
 
     ---
     layout: page
