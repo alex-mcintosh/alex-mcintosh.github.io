@@ -1,32 +1,25 @@
 ---
 layout: page
-title: Conway's Game of Life
-description: 
+title: project 1
+description: with background image
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-## Introduction
+Every project has a beautiful feature showcase page.
+It's easy to include images in a flexible 3-column grid format.
+Make your photos 1/3, 2/3, or full width.
 
-This is an implementation of Conway’s Game of Life using R and Plotly.
-This was an exercise in using R, Plotly and Shiny for implementing the
-Game of Life. The implementation of the game can be found at:
+To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-
-## Background
-
-The Game of Life, also known simply as Life, is a cellular automaton
-devised by the British mathematician John Horton Conway in 1970. It is a
-zero-player game, meaning that its evolution is determined by its
-initial state, requiring no further input. One interacts with the Game
-of Life by creating an initial configuration and observing how it
-evolves. It is Turing complete and can simulate a universal constructor
-or any other Turing machine.
-
-This description is sourced from Wikipedia and more information can be
-
+    ---
+    layout: page
+    title: project
+    description: a project with a background image
+    img: /assets/img/12.jpg
+    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
