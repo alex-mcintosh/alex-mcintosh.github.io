@@ -27,7 +27,7 @@
       "name": "ChemQuery Solutions",
       "position": "Principal Scientist",
       "url": "",
-      "startDate": "May 2024",
+      "startDate": "2024-05-01",
       "endDate": "",
       "summary": "",
       "highlights": ""
@@ -36,8 +36,8 @@
       "name": "Microsaic Systems plc",
       "position": "Principal Scientist",
       "url": "",
-      "startDate": "May 2013",
-      "endDate": "Jan 2024",
+      "startDate": "2013-05-01",
+      "endDate": "2024-01-01",
       "summary": "",
       "highlights": ""
     },
@@ -45,8 +45,8 @@
       "name": "Queen Mary, University of London",
       "position": "Postdoctoral Research Assistant",
       "url": "",
-      "startDate": "2010-12",
-      "endDate": "2013-03",
+      "startDate": "2010-12-01",
+      "endDate": "2013-03-01",
       "summary": "",
       "highlights": ""
     },
@@ -54,8 +54,8 @@
       "name": "Merck Sharp & Dohme",
       "position": "Research Chemist",
       "url": "",
-      "startDate": "2008-05",
-      "endDate": "2010-12",
+      "startDate": "01-05-2008",
+      "endDate": "30-11-2010",
       "summary": "",
       "highlights": ""
     }
@@ -139,42 +139,42 @@
     {
       "name": "Method for extracting mass information from low resolution mass-to-charge ratio spectra of multiply charged species",
       "publisher": "US Patent",
-      "releaseDate": "May 2019",
+      "releaseDate": "2019-05-21",
       "url": "https://worldwide.espacenet.com/patent/search/family/056369839/publication/US10297434B2?q=US10297434B2",
       "summary": ""
     },
     {
       "name": "Method and system for monitoring biomolecule separations by mass spectrometry",
       "publisher": "US Patent",
-      "releaseDate": "Jan 2017",
+      "releaseDate": "2017-01-03",
       "url": "https://worldwide.espacenet.com/patent/search/family/051410554/publication/US9535042B2?q=US9535042B2",
       "summary": ""
     },
     {
       "name": "Crystallization of Amorphous Lactose at High Humidity Studied by Terahertz Time Domain Spectroscopy",
       "publisher": "Chemical Physics Letters",
-      "releaseDate": "Feb 2013",
+      "releaseDate": "2013-02-12",
       "url": "https://www.sciencedirect.com/science/article/abs/pii/S0009261412014650?via%3Dihub",
       "summary": ""
     },
     {
       "name": "Terahertz spectroscopy: A powerful new tool for the chemical sciences?",
       "publisher": "Chemical Society Reviews",
-      "releaseDate": "Mar 2012",
+      "releaseDate": "2012-03-21",
       "url": "https://pubs.rsc.org/en/content/articlelanding/2012/cs/c1cs15277g",
       "summary": ""
     },
     {
       "name": "Mechanistic insights into the proline-directed enantioselective heterogeneous hydrogenation of isophorone",
       "publisher": "Langmuir",
-      "releaseDate": "Apr 2007",
+      "releaseDate": "2007-04-18",
       "url": "https://pubs.acs.org/doi/10.1021/la063064h",
       "summary": ""
     },
     {
       "name": "Heterogeneously catalyzed asymmetric C=C hydrogenation: Origin of enantioselectivity in the proline-directed Pd/isophorone system",
       "publisher": "Journal of the American Chemical Society",
-      "releaseDate": "May 2006",
+      "releaseDate": "2006-05-12",
       "url": "https://pubs.acs.org/doi/10.1021/ja061104y",
       "summary": ""
     }
