@@ -13,17 +13,32 @@ related_publications: true
 This is an implementation of Conway’s Game of Life using R and Plotly.
 This was an exercise in using R, Plotly and Shiny for implementing the
 Game of Life. The implementation of the game can be found at:
+<https://xcstat99.shinyapps.io/Game_of_Life/>
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Background
+
+The Game of Life, also known simply as Life, is a cellular automaton
+devised by the British mathematician John Horton Conway in 1970. It is a
+zero-player game, meaning that its evolution is determined by its
+initial state, requiring no further input. One interacts with the Game
+of Life by creating an initial configuration and observing how it
+evolves. It is Turing complete and can simulate a universal constructor
+or any other Turing machine.
+
+This description is sourced from Wikipedia and more information can be
+found here: <https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life>
+
+## Control
+
+Using the side panel (highlighted in red below) the size of the
+‘habitat’ and the number of generations can be adjusted.
+Also adjustable is the ‘Probability of starting life’, this corresponds
+to p in the binomial distribution which is used for randomly assigning
+the starting state.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ConwayGoL1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
