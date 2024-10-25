@@ -24,16 +24,6 @@ of Life by creating an initial configuration and observing how it
 evolves. It is Turing complete and can simulate a universal constructor
 or any other Turing machine.
 
-This description is sourced from Wikipedia and more information can be
-found here: 
-Control
-
-Using the side panel (highlighted in red below) the size of the
-‘habitat’ and the number of generations can be adjusted.
-Also adjustable is the ‘Probability of starting life’, this corresponds
-to p in the binomial distribution which is used for randomly assigning
-the starting state.
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
