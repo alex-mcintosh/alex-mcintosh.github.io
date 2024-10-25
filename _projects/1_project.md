@@ -36,9 +36,10 @@ Also adjustable is the ‘Probability of starting life’, this corresponds
 to p in the binomial distribution which is used for randomly assigning
 the starting state.
 
-
-<div class="row">
-        {% include figure.liquid loading="eager" path="assets/img/ConwayGoL1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-3 mt-md-0">
+     {% include figure.liquid loading="eager" path="assets/img/ConwayGoL1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>      
 </div>
 
 It is also possible to adjust the rules of the Game of Life by adjusting
