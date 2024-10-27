@@ -2,7 +2,7 @@
 layout: page
 title: The Game of Life
 description: 
-img: assets/img/12.jpg
+img: assets/img/GoL.jpg
 importance: 1
 category: work
 related_publications: false
@@ -13,7 +13,8 @@ related_publications: false
 This is an implementation of Conway’s Game of Life using R and Plotly.
 This was an exercise in using R, Plotly and Shiny for implementing the
 Game of Life. The implementation of the game can be found at:
-<https://xcstat99.shinyapps.io/Game_of_Life/>
+<https://xcstat99.shinyapps.io/Game_of_Life/>. More information can 
+also be found here: <https://github.com/alex-mcintosh/Game-of-Life>
 
 ## Background
 
