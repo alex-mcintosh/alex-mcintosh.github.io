@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
+title: project 10
 description: 
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 ## Introduction
