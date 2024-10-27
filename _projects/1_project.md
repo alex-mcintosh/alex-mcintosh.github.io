@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conway's Game of Life
+title: The Game of Life
 description: 
 img: assets/img/12.jpg
 importance: 1
