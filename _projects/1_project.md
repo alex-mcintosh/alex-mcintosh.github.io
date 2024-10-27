@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 10
+title: Conway's Game of Life
 description: 
 img: assets/img/12.jpg
 importance: 1
