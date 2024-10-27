@@ -2,7 +2,7 @@
 layout: page
 title: The Game of Life
 description: 
-img: assets/img/GoL.jpg
+img: assets/img/GoL.JPG
 importance: 1
 category: work
 related_publications: false
