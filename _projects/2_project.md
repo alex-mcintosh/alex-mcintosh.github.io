@@ -1,32 +1,18 @@
 ---
 layout: page
-title: The Game of Life
+title: Applying supervised learning to predict student dropout rate
 description: 
-img: assets/img/GoL.JPG
+img: 
 importance: 1
 category: work
 related_publications: false
 ---
 
-## Introduction
+<a id='pUhc1mKHSAx151IM_S0IwQ' class='gie-single' href='http://www.gettyimages.com/detail/1244292164' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'pUhc1mKHSAx151IM_S0IwQ',sig:'c1YnCL_jhYG7pqZ3nOOM2K4-L_v4-m9zP-72YNxO_AQ=',w:'594px',h:'396px',items:'1244292164',caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
 
-This is an implementation of Conway’s Game of Life using R and Plotly.
-This was an exercise in using R, Plotly and Shiny for implementing the
-Game of Life. The implementation of the game can be found at:
-<https://xcstat99.shinyapps.io/Game_of_Life/>. More information can 
-also be found here: <https://github.com/alex-mcintosh/Game-of-Life>
 
-## Background
-
-The Game of Life, also known simply as Life, is a cellular automaton
-devised by the British mathematician John Horton Conway in 1970. It is a
-zero-player game, meaning that its evolution is determined by its
-initial state, requiring no further input. One interacts with the Game
-of Life by creating an initial configuration and observing how it
-evolves. It is Turing complete and can simulate a universal constructor
-or any other Turing machine.
-
-This description is sourced from Wikipedia and more information can be
-found here: <https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life>
-
-## Control
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-3 mt-md-0">
+     {% include figure.liquid loading="eager" path="assets/img/ConwayGoL2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>      
+</div>
