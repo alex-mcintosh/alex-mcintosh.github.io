@@ -5,4 +5,5 @@ repo_description_lines_max: 2
 
 github_repos:
   - alex-mcintosh/Game-of-Life
+  - alex-mcintosh/Supervised-Learning-for-Student-Dropout
 
