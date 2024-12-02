@@ -1,12 +1,14 @@
 ---
-layout: page
+layout: distill
 title: The Game of Life
 description: 
 img: assets/img/GoL.JPG
-importance: 1
+tags: distill formatting
 category: work
 related_publications: false
 ---
+
+
 
 ## Introduction
 
