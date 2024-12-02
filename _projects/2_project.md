@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: distill
 title: Applying supervised learning to predict student dropout rate
 description: 
 img: assets/img/student1.jpg
+tags: distill formatting
 importance: 1
 category: work
 related_publications: false
@@ -15,7 +16,9 @@ related_publications: false
   </div>      
 </div>
 
-## **Introduction**
+
+
+## Introduction
 The Study Group provides online courses, tutoring, and consulting services, collaborating with universities to support and prepare international students. A key challenge is high dropout rates, which can harm revenue, reputation, and student satisfaction. This project aimed to predict student dropouts using supervised learning models such as XGBoost and neural networks.
 
 
