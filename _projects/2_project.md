@@ -11,6 +11,7 @@ related_publications: false
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
      {% include figure.liquid loading="eager" path="assets/img/student1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <figcaption class="mt-2">Your caption goes here</figcaption>
   </div>      
 </div>
 
