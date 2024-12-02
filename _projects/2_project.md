@@ -11,14 +11,10 @@ related_publications: false
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
      {% include figure.liquid loading="eager" path="assets/img/student1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    <figcaption class="custom-caption mt-2">Your caption goes here</figcaption>
+    <figcaption style="font-style: italic; font-size: 8px;" class="custom-caption mt-2">Unsplash</figcaption>
   </div>      
 </div>
 
-.custom-caption {
-  font-style: italic;
-  font-size: 8px;
-}
 
 <div align="center">
   <a href="https://github.com/alex-mcintosh/Supervised-Learning-for-Student-  Dropout/blob/main/Applying_supervised_learning_to_predict_student_dropout_rate.ipynb">
