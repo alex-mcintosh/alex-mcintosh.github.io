@@ -20,14 +20,6 @@ related_publications: false
 </div>
 
 
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-     {% include figure.liquid loading="eager" path="assets/img/student1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>      
-</div>
-
-
-
 ## Introduction
 The Study Group provides online courses, tutoring, and consulting services, collaborating with universities to support and prepare international students. A key challenge is high dropout rates, which can harm revenue, reputation, and student satisfaction. This project aimed to predict student dropouts using supervised learning models such as XGBoost and neural networks.
 
