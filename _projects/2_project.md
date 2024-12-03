@@ -11,7 +11,6 @@ related_publications: false
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
      {% include figure.liquid loading="eager" path="assets/img/student1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    <figcaption style="font-size: 10px;" class="custom-caption mt-2">Unsplash</figcaption>
   </div>      
 </div>
 
@@ -22,7 +21,7 @@ The Study Group provides online courses, tutoring, and consulting services, coll
 
 
 <div align="center">
-  <a href="https://github.com/alex-mcintosh/Supervised-Learning-for-Student-  Dropout/blob/main/Applying_supervised_learning_to_predict_student_dropout_rate.ipynb">
+  <a href="https://github.com/alex-mcintosh/Supervised-Learning-for-Student-Dropout/blob/main/Applying_supervised_learning_to_predict_student_dropout_rate.ipynb">
     <img alt="Static Badge" src="https://img.shields.io/badge/GitHub%20Notebook-black?style=plastic&logo=github" height="35">
   </a>
 </div>
@@ -53,13 +52,13 @@ Neural networks were tested with similar datasets and optimization strategies.
 Using the extended dataset improved neural network performance, particularly due to features like _AttendancePercentage_ and _ContactHours_.
 
 ## Key Findings and Model Comparisons
-####	XGBoost vs. Neural Networks:
+###	XGBoost vs. Neural Networks:
 *	XGBoost consistently outperformed neural networks, especially in precision and F1 score.
 *	Neural networks excelled in recall, which is valuable for early dropout detection.
 *	Tuning showed mixed results, with marginal AUC improvements but trade-offs in recall and precision.
 *	XGBoost’s efficiency and interpretability make it the preferred choice.
   
-####	Feature Importance:
+###	Feature Importance:
 *	_CreditWeightedAverage_ was the most impactful predictor.
 *	Relationships between features like _CentreName_ and _ProgressionUniversity_ merit further exploration to reduce model complexity.
 
