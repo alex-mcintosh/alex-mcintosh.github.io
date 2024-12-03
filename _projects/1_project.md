@@ -8,15 +8,24 @@ category: work
 related_publications: false
 ---
 
+<div align="center">
+  <a href="https://github.com/alex-mcintosh/Game-of-Life">
+    <img alt="Static Badge" src="https://img.shields.io/badge/The%20Game%20of%20Life-blue?style=plastic" height="35">
+  </a>
+</div>
 
 
 ## Introduction
 
 This is an implementation of Conway’s Game of Life using R and Plotly.
 This was an exercise in using R, Plotly and Shiny for implementing the
-Game of Life. The implementation of the game can be found at:
-<https://xcstat99.shinyapps.io/Game_of_Life/>. More information can 
-also be found here: <https://github.com/alex-mcintosh/Game-of-Life>
+Game of Life. 
+
+<div align="center">
+  <a href="https://github.com/alex-mcintosh/Game-of-Life">
+    <img alt="Static Badge" src="https://img.shields.io/badge/GitHub%20Notebook-black?style=plastic&logo=github" height="35">
+  </a>
+</div>
 
 ## Background
 
@@ -28,8 +37,14 @@ of Life by creating an initial configuration and observing how it
 evolves. It is Turing complete and can simulate a universal constructor
 or any other Turing machine.
 
-This description is sourced from Wikipedia and more information can be
-found here: <https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life>
+<div align="center">
+  <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Conway's%20Game%20of%20Life-grey?style=plastic&logo=wikipedia" height="35">
+  </a>
+</div>
+
+
+
 
 ## Control
 
