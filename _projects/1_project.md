@@ -9,7 +9,7 @@ related_publications: false
 ---
 
 <div align="center">
-  <a href="https://github.com/alex-mcintosh/Game-of-Life">
+  <a href="https://xcstat99.shinyapps.io/Game_of_Life/">
     <img alt="Static Badge" src="https://img.shields.io/badge/The%20Game%20of%20Life-blue?style=plastic" height="35">
   </a>
 </div>
