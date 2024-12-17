@@ -25,7 +25,7 @@
   "work": [
     {
       "name": "ChemQuery Solutions",
-      "position": "Principal Scientist",
+      "position": "AI Prompt Engineer",
       "url": "",
       "startDate": "2024-05-01",
       "endDate": "",
@@ -61,6 +61,28 @@
     }
   ],
   "education": [
+      {
+      "institution": "University of Cambridge ICE",
+      "location": "",
+      "url": "",
+      "area": "Data Science Career Accelerator",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [""]
+    },
+      {
+      "institution": "Open University",
+      "location": "",
+      "url": "",
+      "area": "Practical Modern Statistics",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [""]
+    },
     {
       "institution": "University of Cambridge",
       "location": "Cambridge, UK",
@@ -194,8 +216,50 @@
       "keywords": [
       ]
     },
+    {
+      "name": "Julia",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      ]
+    },
        {
       "name": "VBA for Excel",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "R&D",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Multivariate Analysis",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Supervised Learning (Keras and Tensorflow)",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Singal Processing",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Bioprocess monitoring",
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
