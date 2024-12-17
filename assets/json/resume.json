@@ -63,7 +63,8 @@
   "education": [
       {
       "institution": "University of Cambridge ICE",
-      "area": "Data Science Career Accelerator"
+      "area": "Data Science Career Accelerator",
+      "url": "",
     },
       {
       "institution": "Open University",
