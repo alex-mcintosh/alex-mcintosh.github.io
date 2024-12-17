@@ -11,6 +11,18 @@
 - title: Education
   type: time_table
   contents:
+    - title: Data Science Career Accelerator 
+      institution: University of Cambridge ICE
+      year: None
+      description:
+        - Description 1.
+        - Description 2.
+    - title: Practical Modern Statistics  
+      institution: Open University
+      year: None
+      description:
+        - Description 1.
+        - Description 2.
     - title: PhD
       institution: University of Cambridge
       year: None
