@@ -73,33 +73,21 @@
       "location": "Remote",
       "url": "",
       "area": "Practical Modern Statistics",
-      "studyType": "Second Year Degree Module",
-      "startDate": "",
-      "endDate": "",
-      "score": "",
-      "courses": [""]
+      "studyType": "Second Year Degree Module"
     },
     {
       "institution": "University of Cambridge",
       "location": "Cambridge, UK",
       "url": "",
       "area": "Physical Chemistry",
-      "studyType": "PhD",
-      "startDate": "",
-      "endDate": "",
-      "score": "",
-      "courses": [""]
+      "studyType": "PhD"
     },
         {
       "institution": "University of Oxford",
       "location": "Oxford, UK",
       "url": "",
       "area": "Chemistry",
-      "studyType": "MChem",
-      "startDate": "",
-      "endDate": "",
-      "score": "",
-      "courses": [""]
+      "studyType": "MChem"
     }
   ],
   "certificates": [
