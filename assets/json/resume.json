@@ -63,14 +63,7 @@
   "education": [
       {
       "institution": "University of Cambridge ICE",
-      "location": "",
-      "url": "",
-      "area": "Data Science Career Accelerator",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "",
-      "score": "",
-      "courses": [""]
+      "area": "Data Science Career Accelerator"
     },
       {
       "institution": "Open University",
