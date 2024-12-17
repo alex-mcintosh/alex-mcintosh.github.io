@@ -65,14 +65,15 @@
       "institution": "University of Cambridge ICE",
       "location": "Remote",
       "url": "",
-      "area": "Data Science Career Accelerator"
+      "area": "Data Science",
+      "studyType": "Career Accelerator"
     },
       {
       "institution": "Open University",
       "location": "Remote",
       "url": "",
       "area": "Practical Modern Statistics",
-      "studyType": "",
+      "studyType": "Second Year Degree Module",
       "startDate": "",
       "endDate": "",
       "score": "",
