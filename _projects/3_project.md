@@ -16,7 +16,6 @@ related_publications: false
         title="example image" 
         class="img-fluid w-100 rounded z-depth-1"
         caption = "Photo by <a href="https://unsplash.com/@julesea?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">jules a.</a> on <a href="https://unsplash.com/photos/grayscale-photography-of-brother-typewriter-NvFkYV2ngOk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>"
-      
      %}
   </div>      
 </div>
