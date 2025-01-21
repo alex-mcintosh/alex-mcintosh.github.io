@@ -248,6 +248,20 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
       ]
+    },
+     {
+      "name": "Chemistry",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      ]
+    },
+     {
+      "name": "Mass Spectrometry",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      ]
     }
   ]
 }
