@@ -112,7 +112,7 @@ will have fewer generations than was entered in the control panel.
 
 ## Performance Considerations
 
-“Once ‘Start’ is pressed all generations of the habitat are calculated
+Once ‘Start’ is pressed all generations of the habitat are calculated
 prior to plotting, this combined with the use of Plotly, does lead to
 some limitations with the performance of the game. Most of this
 calculation time is actually used for generating the habitat plot.
