@@ -25,8 +25,8 @@ The Study Group provides online courses, tutoring, and consulting services, coll
 
 
 <div align="center">
-  <a href="https://github.com/alex-mcintosh/Supervised-Learning-for-Student-Dropout/blob/main/Applying_supervised_learning_to_predict_student_dropout_rate.ipynb">
-    <img alt="Static Badge" src="https://img.shields.io/badge/GitHub%20Notebook-black?style=plastic&logo=github" height="35">
+  <a href="https://colab.research.google.com/github/alex-mcintosh/Supervised-Learning-for-Student-Dropout/blob/main/Applying_supervised_learning_to_predict_student_dropout_rate.ipynb">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Open%20in%20Colab-black?style=plastic&logo=googlecolab" height="35">
   </a>
 </div>
 
