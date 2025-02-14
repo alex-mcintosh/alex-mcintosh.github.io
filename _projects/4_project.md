@@ -2,7 +2,7 @@
 layout: distill
 title: Using-time-series-analysis-for-sales-and-demand-forecasting
 description: 
-img: assets/img/NLP.jpg
+img: assets/img/time_series.jpg
 tags: distill formatting
 category: work
 related_publications: false
