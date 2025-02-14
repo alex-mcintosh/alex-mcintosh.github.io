@@ -26,8 +26,8 @@ This project showcases the application of Natural Language Processing (NLP) tech
 
 
 <div align="center">
-  <a href="https://github.com/alex-mcintosh/Applying-NLP-for-topic-modelling/blob/main/Applying_NLP_for_topic_modelling.ipynb">
-    <img alt="Static Badge" src="https://img.shields.io/badge/GitHub%20Notebook-black?style=plastic&logo=github" height="35">
+  <a href="https://colab.research.google.com/github/alex-mcintosh/Applying-NLP-for-topic-modelling/blob/main/Applying_NLP_for_topic_modelling.ipynb">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Open%20in%20Colab-black?style=plastic&logo=googlecolab" height="35">
   </a>
 </div>
 
