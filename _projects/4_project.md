@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: Using-time-series-analysis-for-sales-and-demand-forecasting
+title: Using time series analysis for sales and demand forecasting
 description: 
 img: assets/img/time_series.jpg
 tags: distill formatting
